@@ -1,0 +1,62 @@
+﻿using tyuiu.cources.programming.interfaces.Sprint2;
+
+namespace Tyuiu.MitinNV.Sprint2.Task5.V6.Lib
+{
+    public class DataService : ISprint2Task5V6
+    {
+        public string FindCardNameAndValue(int value1, int value2)
+        {
+            string result = "";
+
+            switch (value1)
+            {
+                case 1:
+                    result += "пик";
+                    break;
+                case 2:
+                    result += "треф";
+                    break; 
+                case 3:
+                    result += "бубен";
+                    break;
+                case 4:
+                    result += "червей";
+                    break;
+
+            }
+
+            switch (value2)
+            {
+                case 6:
+                    result = "Шестерка " + result;
+                    break;
+                case 11:
+                    result = "Валет " + result;
+                    break;
+                case 12:
+                    result = "Дама " + result;
+                    break;
+                case 13:
+                    result = "Король " + result;
+                    break;
+                case 14:
+                    result = "Туз " + result;
+                    break;
+                case 7:
+                    result = "Семерка " + result;
+                    break;
+                case 8:
+                    result = "Восьмерка " + result;
+                    break;
+                case 9:
+                    result = "Девятка " + result;
+                    break;
+                case 10:
+                    result = "Десятка " + result;
+                    break;
+            }
+
+            return result;
+        }
+    }
+}
