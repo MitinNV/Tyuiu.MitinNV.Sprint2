@@ -28,31 +28,31 @@ namespace Tyuiu.MitinNV.Sprint2.Task5.V6.Lib
             switch (value2)
             {
                 case 6:
-                    result = "Шестерка " + result;
+                    result = "шестерка " + result;
                     break;
                 case 11:
-                    result = "Валет " + result;
+                    result = "валет " + result;
                     break;
                 case 12:
-                    result = "Дама " + result;
+                    result = "дама " + result;
                     break;
                 case 13:
-                    result = "Король " + result;
+                    result = "король " + result;
                     break;
                 case 14:
-                    result = "Туз " + result;
+                    result = "туз " + result;
                     break;
                 case 7:
-                    result = "Семерка " + result;
+                    result = "семерка " + result;
                     break;
                 case 8:
-                    result = "Восьмерка " + result;
+                    result = "восьмерка " + result;
                     break;
                 case 9:
-                    result = "Девятка " + result;
+                    result = "девятка " + result;
                     break;
                 case 10:
-                    result = "Десятка " + result;
+                    result = "десятка " + result;
                     break;
             }
 

@@ -9,7 +9,7 @@ namespace Tyuiu.MitinNV.Sprint2.Task5.V6.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            Assert.AreEqual("Туз пик", ds.FindCardNameAndValue(1, 14));
+            Assert.AreEqual("туз пик", ds.FindCardNameAndValue(1, 14));
         }
     }
 }
