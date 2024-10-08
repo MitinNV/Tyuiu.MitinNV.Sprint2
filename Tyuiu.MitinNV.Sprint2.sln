@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint2.Task3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint2.Task3.V13.Test", "Tyuiu.MitinNV.Sprint2.Task3.V13.Test\Tyuiu.MitinNV.Sprint2.Task3.V13.Test.csproj", "{EB577128-95DC-498B-98C3-4787B493608A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint2.Task4.V5.Lib", "Tyuiu.MitinNV.Sprint2.Task4.V5.Lib\Tyuiu.MitinNV.Sprint2.Task4.V5.Lib.csproj", "{D06FCAA5-28A3-4675-8D58-0072A74F3292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint2.Task4.V5", "Tyuiu.MitinNV.Sprint2.Task4.V5\Tyuiu.MitinNV.Sprint2.Task4.V5.csproj", "{20D30F66-4332-4515-98C6-6347FCAE11E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint2.Task4.V5.Test", "Tyuiu.MitinNV.Sprint2.Task4.V5.Test\Tyuiu.MitinNV.Sprint2.Task4.V5.Test.csproj", "{31587F6D-9626-4513-B6AA-79FF07BB89AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +90,17 @@ Global
 		{EB577128-95DC-498B-98C3-4787B493608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB577128-95DC-498B-98C3-4787B493608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB577128-95DC-498B-98C3-4787B493608A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06FCAA5-28A3-4675-8D58-0072A74F3292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06FCAA5-28A3-4675-8D58-0072A74F3292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06FCAA5-28A3-4675-8D58-0072A74F3292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06FCAA5-28A3-4675-8D58-0072A74F3292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D30F66-4332-4515-98C6-6347FCAE11E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D30F66-4332-4515-98C6-6347FCAE11E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D30F66-4332-4515-98C6-6347FCAE11E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D30F66-4332-4515-98C6-6347FCAE11E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31587F6D-9626-4513-B6AA-79FF07BB89AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31587F6D-9626-4513-B6AA-79FF07BB89AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31587F6D-9626-4513-B6AA-79FF07BB89AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31587F6D-9626-4513-B6AA-79FF07BB89AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
